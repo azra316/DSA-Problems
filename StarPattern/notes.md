@@ -1,4 +1,4 @@
- **“condition of `j`” confusion crystal clear**.
+#  **“condition of `j`” confusion crystal clear**.
 **thought process + chart method**
 
 ---
