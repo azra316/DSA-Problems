@@ -1,12 +1,9 @@
-#  **“condition of `j`” confusion crystal clear**.
-**thought process + chart method**
+#  “condition of `j`” confusion crystal clear.
+# thought process + chart method.
 
 ---
 
 ## 1️⃣ Step 1: Fix your `i` (rows)
-
-👉 You already said you can easily get the condition of `i`. Good.
-Remember:
 
 * `i` = which **row** you are on.
 * So if `n = 5`, `i` will always go from `0 → 4` (or `1 → 5` depending on your choice).
