@@ -1,5 +1,5 @@
 // Increasing + Decreasing (Even Case)
-// Small Symmetry (Even Peaks)
+//  Symmetry (Even Peaks)
 /*
 1.
 

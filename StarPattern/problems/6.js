@@ -1,33 +1,22 @@
-//Step 5 → Mix of Type A + Type B
-//Type A (j doesn’t depend on i)
-//Type B (j depends on i )
-
-/* 
-1.
-
-*****
-*
-**
-***
-****
-
-*/
-
+// Mix of (j is independent from i) + (j is dependent to i) 
 
 /*
-2.
 
+Level 1
+*****
+*
+**
+***
+****
+
+Level 2
 ****
 ***
 **
 *
 *****
 
-*/
-
-
-/*
-3.
+Level 3
 *
 **
 ***
@@ -36,12 +25,7 @@
 *****
 *****
 
-*/
-
-
-/*
-4.
-
+Level 4
 *****
 *****
 *
@@ -50,12 +34,7 @@
 ****
 *****
 
-*/
-
-
-/*
-5.
-
+Level 5
 *
 **
 ***
@@ -66,5 +45,6 @@
 ***
 **
 *
+
 
 */

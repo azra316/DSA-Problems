@@ -1,4 +1,4 @@
-//Step 1 → Type A (j doesn’t depend on i → fixed stars per row)
+// Type A (j doesn’t depend on i → fixed stars per row)
 
 /*
 1.

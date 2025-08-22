@@ -1,4 +1,5 @@
-//Step 4 → Type B (increase then decrease → pyramid style without spaces)
+//Step 4 → Type B (increase then decrease )
+// Symmetry (odd Peaks)
 /* 
 1.
 

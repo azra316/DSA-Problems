@@ -1,4 +1,4 @@
-//Step 2 → Type B (j depends on i → increasing stars)
+// Type B (j depends on i → increasing stars)
 /*
 1.
 
