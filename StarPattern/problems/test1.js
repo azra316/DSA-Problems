@@ -6,9 +6,6 @@
 * Odd symmetry
 * Even symmetry
 
-I’ll structure it like an **exam**: **instructions + 25 questions** (like our ladder: 5 steps × 5 levels).
-You’ll **write JS code for each pattern**, then check your output.
-
 ---
 
 # 🌟 Beginner Star Pattern Test Paper
