@@ -312,21 +312,57 @@
 ```
 
 ---
-
-### ✅ How to Self-Check
-
-1. For each pattern, **count rows and stars per row**.
-2. Check your loop formulas:
-
-   * Fixed → constant
-   * Increasing → `i+1`
-   * Decreasing → `n-i`
-   * Odd symmetry → split at middle (`i+1` then `n-i`)
-   * Even symmetry → peak repeats
-3. Run your JS code → compare with pattern exactly.
-4. If it matches perfectly → mastered that pattern.
-
----
-
-
 */
+
+//Q6: 
+{
+    let n=5;
+    for(let i=0; i<n; i++){
+        let row = "";
+        for(let j=0; j<i+1; j++){
+            row = row + "*";
+        }
+        console.log(row);
+    }
+}
+
+//Q11:
+
+{
+    let n=5; 
+    for(let i=0; i<n; i++){
+        let row = "";
+        for(let j=0; j<n-i; j++){
+            row = row + "*";
+        }
+        console.log(row);
+    } 
+}
+
+//Q16:
+
+{
+    let n=5;
+    for(let i=0; i<n; i++){
+        let row = "";
+        let stars = (i< Math.ceil(n/2)) ? i+1 : n-i;
+        for(let j=0; j<stars; j++){
+            row = row + "*";
+        }
+        console.log(row);
+    }
+}
+//Q22:
+console.log('check');
+{
+    let n=6;
+    for(let i=0; i<n; i++){
+        let row = "";
+        let stars = (i<Math.ceil(n/2)) ? i+1 : n-i;
+        for(let j=0; j< stars; j++){
+            row = row + "*";
+        }
+        console.log(row);
+    }
+    
+}
